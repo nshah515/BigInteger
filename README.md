@@ -18,4 +18,4 @@ Meant to take in a linked list of a digit:
         
       Multiply: Multiplies two BigIntegers together
       
-      Add: Multiplies two BigIntegers together, takes into account negatives as well, so essentially addition AND subtraction
+      Add: Adds two BigIntegers together, takes into account negatives as well, so essentially addition AND subtraction
